@@ -15,11 +15,12 @@
   small > a:hover {
     color: #D2902C;
   }
+  
   .primary-languages {
     margin: 30px 0;
     display: flex;
     flex-wrap: wrap;
-    gap: 30px;
+    gap: 15px;
   }
 
   .banner-linguagem {
@@ -31,7 +32,7 @@
   }
 
   .banner-linguagem img {
-    width: 70%;
+    width: 50%;
     margin-bottom: 10px;
   }
 
@@ -78,7 +79,7 @@
 
 <br>
 
-## <span class="texto-destaque">Principais Linguagens</span>
+## <span class="texto-destaque">Principais Linguagens e Tecnologias</span>
 
 <div class="primary-languages">
   <div class="banner-linguagem">
@@ -90,12 +91,12 @@
     <p>CSS3</p>
   </div>
   <div class="banner-linguagem">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-    <p>SASS</p>
-  </div>
-  <div class="banner-linguagem">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
     <p>JavaScript</p>
+  </div>
+  <div class="banner-linguagem">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+    <p>SASS</p>
   </div>
   <div class="banner-linguagem">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
@@ -108,14 +109,6 @@
   <div class="banner-linguagem">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
     <p>NodeJs</p>
-  </div>
-  <div class="banner-linguagem">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/>
-    <p>MarkDown</p>
-  </div>
-  <div class="banner-linguagem">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-    <p>VS Code</p>
   </div>
 </div>
 
@@ -134,7 +127,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
     <p>Github</p>
   </div>
+    <div class="banner-linguagem">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+    <p>VS Code</p>
+  </div>
 </div>
+
+<hr>
 
 ## <span class="texto-destaque">Linguagens, Tecnologias e Ferramentas conhecidas</span>
 
@@ -150,6 +149,10 @@
   <div class="banner-linguagem">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
     <p>Typescript</p>
+  </div>
+    <div class="banner-linguagem">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/>
+    <p>MarkDown</p>
   </div>
   <div class="banner-linguagem">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-plain.svg"/>
@@ -191,7 +194,9 @@
 
 <br>
 
-# GitHub estatístico
+<hr>
+
+## <span class="texto-destaque">GitHub estatístico</span>
 
 <div class="cards-container">
 
@@ -201,64 +206,25 @@
 
 </div>
 
-<div>
+<hr>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cristofer-Vargas&repo=The-Wired-Coffe&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+## <span class="texto-destaque">Principais projetos</span>
 
 <div>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cristofer_Vargas&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cristofer-Vargas&repo=The-Wired-Coffe&theme=slateorange)](https://github.com/Cristofer-Vargas/The-Wired-Coffe)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cristofer-Vargas&repo=delivery-slg.com.br&theme=slateorange)](https://github.com/Cristofer-Vargas/delivery-slg.com.br)
 
-</div>
+</div>  
+
+<!-- <div>
+
+  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cristofer_vargas&theme=slateorange)
+
+</div> -->
 
 <small>Direitos Autorais dos ícones: <a title="programming languages, designing, and development tools" href="https://devicon.dev/">devicon.dev</a> e dos dados estatísticos do github: <a title="GitHub Readme Stats" href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a></small>
-
-
-
-
-
-
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" /> -->
-
-
-
-<!-- ![GIF](https://media.discordapp.net/attachments/950935184608489544/1090985675333054504/Design_sem_nome.gif?width=595&height=595) -->
 
 
 <!--

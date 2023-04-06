@@ -55,6 +55,6 @@ Tais estudos incluem modelagem de dados (ER), modelo conceitual, físico e lógi
 
 ### **Tempo de atividade** XD
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cristofer_Vargas&theme=slateorange)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cristofer_Vargas&layout=compact&theme=slateorange)
 
 <small>Estatística do github: <a title="GitHub Readme Stats" href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a></small>

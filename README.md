@@ -8,7 +8,7 @@
 
 <i>Um pouco sobre mim...</i>
 
-Estou no ultimo semestre do curso de **Técnico em Informática** pelo SENAC de São Luiz Gonzaga - RS, e estou estudando para **desenvolvedor WEB full-stack** com foco no front-end.
+Sou formado pelo curso de **Técnico em Informática** pelo SENAC de São Luiz Gonzaga - RS, e estou estudando para **desenvolvedor WEB full-stack** com foco no front-end.
 
 
 Atualmente me dedico os estudo nas seguintes linguagens para o desenvolvimento front-end: **HTML5**, **CSS3** e **JavaScript**, e com foco no **back-end** e server-side, estudo **PHP** e **MySql** como linguagem de programação e banco de dados. 

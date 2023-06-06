@@ -1,15 +1,15 @@
 <table width="100%">
 <tr>
-<td width="35%"><img  src="https://media.discordapp.net/attachments/1112822642622337074/1115412097162039346/1685763339535.jpeg?width=499&height=499"  /></td>
 <td>
 <h1>Olá Mundo! 🖖</h1>
 <h3> Bem vindo, Meu nome é <i><b><u>Cristofer Vargas</u></b></i></h3>
-Formado em <strong>Técnico de Informática</strong> pelo SENAC de São Luiz Gonzaga - RS, apaixonado por hardware e tecnologia e com o objetivo e curiosidade de saber como as coisas funcionam.
+Formado em <strong>Técnico de Informática</strong> pelo SENAC São Luiz Gonzaga - RS, apaixonado por hardware e tecnologia, e com o objetivo e curiosidade de saber como as coisas funcionam.
 </td>
+  <td width="35%"><img  src="https://media.discordapp.net/attachments/1112822642622337074/1115412097162039346/1685763339535.jpeg?width=499&height=499"  /></td>
 </tr>
 </table>
 
-Dado a grande gama de aprendizado proporcionado do meu curso técnico, me identifiquei no ramo de **desenvolvimento web** (full-satck) onde desenvolvo sistemas e aplicações voltadas ao mercado online.
+Dado a grande gama de aprendizado proporcionado do meu curso técnico, me identifiquei e me apaixonei no ramo de **desenvolvimento web** (full-satck) onde desenvolvo sistemas e aplicações voltadas a internet.
 
 Minhas linguagens de estudo e aprendizado no momento incluem:
 
@@ -41,4 +41,4 @@ Meu objetivo é juntar pessoas com o mesmo interesse e com vontade de enriquecer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristofer-Vargas&locale=pt-br&langs_count=10&layout=compact&theme=slateorange&hide=hack)
 
-<small>Estatística do github: <a title="GitHub Readme Stats" href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Anurag Hazra</a></small>
+<small>API de estatística do github: <a title="GitHub Readme Stats" href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Anurag Hazra</a></small>

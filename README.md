@@ -20,8 +20,9 @@ Esses estudos não se limitam a penas as linguagens e sintaxes, mas também todo
 
 ## **Me encontre em outras redes:**
 
-- <a href="https://www.linkedin.com/in/cristofer-vargas/" target="_blank">LinkedIn</a>
-- <a href="https://www.instagram.com/cristofer.dev/" target="_blank">Instagram</a>
+[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Cristofer-Vargas)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cristofer-vargas/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/cristofer.dev/)
 
 ---
 
@@ -29,15 +30,11 @@ Esses estudos não se limitam a penas as linguagens e sintaxes, mas também todo
 
 Se gosta de programação e curte também jogar de vez em quando, considere entrar no meu servidor para interagir um pouco.
 
-- **<a href="https://discord.gg/fbgvW3kaWQ" target="_blank">Meu servidor</a>**
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fbgvW3kaWQ)
 
 É um servidor pequeno e com objetivo de aproveitar o máximo de estudos de programação em coletivo, e com um espaço também para jogar com amigos (quem sabe um minecraft hein hahah)
 
 Meu objetivo é juntar pessoas com o mesmo interesse e com vontade de enriquecer seu repositório com projetos em conjunto e cooperativamente.
-
-<!-- ## **Minhas atividades** -->
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristofer-Vargas&count_private=true&include_all_commits=false&line_height=30&custom_title=Estatística%20de%20Cristofer%20Vargas&locale=pt-br&show_icons=true&theme=slateorange ) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristofer-Vargas&locale=pt-br&langs_count=10&layout=compact&theme=slateorange&hide=hack)
 

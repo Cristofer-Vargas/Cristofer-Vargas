@@ -1,5 +1,5 @@
 <picture>
-  <img width="100%" src="https://media.discordapp.net/attachments/1112822642622337074/1198662082632106066/Readme.jpg?ex=65bfb80e&is=65ad430e&hm=40cbcf9f02c0df8625f8be6150698d4239b3637dae2fbf1189d6f6d72d65be7b&=&format=webp&width=701&height=701" alt="Readme">
+  <img width="100%" src="https://media.discordapp.net/attachments/1112822642622337074/1198662082632106066/Readme.jpg" alt="Readme">
 </picture>
 
 ## **Me encontre em outras redes:**

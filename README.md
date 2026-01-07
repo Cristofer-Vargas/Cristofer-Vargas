@@ -6,13 +6,9 @@
 ">
   <img 
     style="
-      width:300px; 
-      height: 300px; 
-      object-fit: 
-      cover; 
-      border-radius:10%;
+      height: 300px;
   " 
-  src="https://i.postimg.cc/RCTZdHzQ/DSC_0792.jpg)](https://postimg.cc/z3VNX3vV" alt="retrato de Cristofer">
+  src="https://i.postimg.cc/CM6L9Vzz/DSC-0792.jpg" alt="retrato de Cristofer">
 </div>
 
 <h1 style="text-align:center; margin:2rem 0;">

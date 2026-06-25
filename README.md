@@ -68,7 +68,7 @@ Aqui estão alguns dos projetos onde apliquei meus conhecimentos em backend, arq
   <a href="https://www.linkedin.com/in/cristofer-vargas/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/cristofer.dev/" target="_blank">
+  <a href="https://www.instagram.com/cristofer.vs/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
